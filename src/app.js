@@ -1,7 +1,9 @@
 import React from 'react';
 
+import Newsletter from  './components/newsletter';
+
 const App = () => (
-  <h1>Hello world</h1>
+  <Newsletter />
 );
 
 export default App;
